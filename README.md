@@ -1,6 +1,6 @@
 # FastAPI backend with React frontend
 
- - Authentication using the **fastapi.security** package. O-Auth 2 tokens.
+ - Authentication using the **fastapi.security** package. O-Auth 2 JWT tokens.
  - Database provider using **sqlalchemy**
  - React frontend with ViteJS 
 
