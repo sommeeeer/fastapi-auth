@@ -21,7 +21,7 @@ npm run dev
 
 The **FastAPI SwaggerUI Docs** will be running at http://localhost:8000/docs
 
-The **ViteJS development server** will be running at will be running at http://localhost:5173
+The **ViteJS development server** will be running at http://localhost:5173
 
 ## License
 This project is licensed under the terms of the MIT license. See the LICENSE file for details.
