@@ -11,6 +11,9 @@ cd backend
 poetry install
 poetry shell
 uvicorn main:app --reload
+
+# or with docker 
+docker compose up -d # to run it as daemon
 ```
 Start React frontend:
 ```bash
